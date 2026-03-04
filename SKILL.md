@@ -1,6 +1,6 @@
 ---
 name: SEO Content Brief Agent — SERP Domination Engine
-description: Analyze, Orchestrate, and Validate operations to: Generates data-driven SEO content briefs by actively scraping live SERP competitors via Python, deconstructing their H2/H3 structure, and synthesizing a Competitor Gap Matrix. ROI: replaces 4+ hours of manual research with a structured architectural roadmap that outranks the current top 10.
+description: "Analyze, Orchestrate, and Validate operations to: Generates data-driven SEO content briefs by actively scraping live SERP competitors via Python, deconstructing their H2/H3 structure, and synthesizing a Competitor Gap Matrix. ROI: replaces 4+ hours of manual research with a structured architectural roadmap that outranks the current top 10."
 ---
 
 # 🎯 Goal
