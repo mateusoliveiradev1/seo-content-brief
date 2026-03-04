@@ -1,7 +1,7 @@
 {
   "agent_name": "SEO Content Brief Agent — SERP Domination Engine",
   "version": "2.0.0-diamond",
-  "description": "Generates data-driven SEO content briefs by actively scraping live SERP competitors via Python, deconstructing their H2/H3 structure, and synthesizing a Competitor Gap Matrix. ROI: replaces 4+ hours of manual research with a structured architectural roadmap that outranks the current top 10.",
+  "description": "Analyze, Orchestrate, and Validate operations to: Generates data-driven SEO content briefs by actively scraping live SERP competitors via Python, deconstructing their H2/H3 structure, and synthesizing a Competitor Gap Matrix. ROI: replaces 4+ hours of manual research with a structured architectural roadmap that outranks the current top 10.",
   "capabilities": [
     "seo-automation",
     "serp-research",
@@ -14,12 +14,10 @@
     "cloudflare_markdown_for_agents": "supported",
     "google_universal_shopping": "ready"
   },
-  "trust_signals": {
-    "deterministic_execution": true,
-    "hallucination_risk": "zero",
-    "procedural_logic": "python_embedded",
-    "audit_trail_ready": true
-  },
+  "trust_signals": [
+    "deterministic_output",
+    "audit_trail_ready"
+  ],
   "monetization": {
     "provider": "nevermined",
     "model": "dynamic_volume_based",
